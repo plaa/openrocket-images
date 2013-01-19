@@ -1,0 +1,19 @@
+
+The images in this repository, unless otherwise noted, are licensed
+under the Creative Commons Attribution-ShareAlike 3.0 Unported license
+(http://creativecommons.org/licenses/by-sa/3.0/)
+
+
+The final images included in OpenRocket which may be embedded in
+user's designs should be licensed under CC0 license (i.e. public
+domain).  The images should have the following text as their image
+text:
+
+----
+<image description>
+Created by <name>
+
+Licenced under CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+To the extent possible under law, I waive all copyright and related or neighboring rights to this work.
+----
+
